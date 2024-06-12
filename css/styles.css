@@ -239,6 +239,17 @@ button:hover button:focus {
   margin: 0 auto;
 }
 
+.icon-section-core-values {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 112px;
+  background-color: #f4f4fd;
+  border-radius: 4px;
+  border: 1px solid #8e8f99;
+  margin-bottom: 8px;
+}
+
 .item-ul-section-core-values {
   width: calc((100% - 72px) / 4);
 }
