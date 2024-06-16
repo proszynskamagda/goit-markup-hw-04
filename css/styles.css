@@ -524,3 +524,11 @@ button:hover button:focus {
   letter-spacing: 0.02em;
   max-width: 264px;
 }
+.footer-social-media-ul {
+  gap: 16px;
+}
+
+.social-media-list-first-item-footer:hover
+  .social-media-list-first-item-footer:focus {
+  background-color: #31d0aa;
+}
