@@ -434,7 +434,6 @@ button:hover button:focus {
   column-gap: 24px;
   row-gap: 48px;
 }
-
 .header-quaternary-section-our-portfolio {
   color: #2e2f42;
   font-weight: 500;
@@ -448,7 +447,6 @@ button:hover button:focus {
   border: 1px solid #e7e9fc;
   border-top: none;
 }
-
 .list-item-quaternary-section {
   background-color: #ffffff;
   width: calc((100% - 48px) / 3);
