@@ -340,7 +340,7 @@ button:hover button:focus {
   display: flex;
   justify-content: center;
   gap: 24px;
-  padding: 8px;
+  padding-top: 8px;
 }
 .social-media-list-first-item {
   width: 40px;
@@ -465,7 +465,7 @@ button:hover button:focus {
   margin: 0 auto;
   overflow: hidden;
 }
-.quaternary-section-img-container:hover .overlay-quaternary-section {
+.list-item-quaternary-section:hover .overlay-quaternary-section {
   transform: translatey(0);
 }
 .overlay-quaternary-section {
@@ -542,4 +542,14 @@ button:hover button:focus {
 }
 .link-social-media-footer:focus {
   background-color: #31d0aa;
+}
+.social-media-list-first-item-footer {
+  width: 40px;
+  height: 40px;
+}
+
+.social-media-list-footer {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
 }
